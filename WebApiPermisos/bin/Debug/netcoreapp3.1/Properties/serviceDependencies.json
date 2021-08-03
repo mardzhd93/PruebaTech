@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "type": "mssql",
+      "connectionId": "PermisosContext"
+    },
+    "mssql2": {
+      "type": "mssql",
+      "connectionId": "WebApiPermisosContext"
+    },
+    "mssql3": {
+      "type": "mssql",
+      "connectionId": "WebApiTipoPermisosContext"
+    }
+  }
+}
